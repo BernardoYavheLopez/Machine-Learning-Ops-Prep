@@ -1,10 +1,12 @@
-![](media/image2.png){width="1.1458333333333333in"
-height="1.2395833333333333in"}
+Machine-Learning-OPSPrep
 
   ------------- -------------------- ---------------------
   **Version**   **Author**           **Date**
   1.0           bernardoyavhelopez   2024-10-22 21:18:43
   ------------- -------------------- ---------------------
+
+Puedes Descarga el archivo README en formarto DOC [aqui](./README.docx).
+
 
 Table of contents
 
@@ -96,9 +98,7 @@ Project references for the created flow:
 
 -   Project key: **COPYOFBERNARDOMLOPSPREPAREFORPRODUCTION**
 
-```{=html}
-<!-- -->
-```
+
 -   Project short description:
 
     The project \*STARTERAdvanced Designer\* was created by
@@ -111,9 +111,7 @@ Project references for the created flow:
     from \*HITAMLOPSPREPAREFORPRODUCTION\* by bernardoyavhelopez on Oct
     22nd 2024
 
-```{=html}
-<!-- -->
-```
+
 -   Description:
 
     \# Backgroud\
@@ -146,16 +144,7 @@ Project references for the created flow:
     - Perform other essential tasks required to move a project into such
     as: project refactoring and documentation techniques
 
-```{=html}
-<!-- -->
-```
--   Status:
 
--   Current git branch: **master**
-
-```{=html}
-<!-- -->
-```
 -   Tags: **duplicated, imported**
 
 -   Created by **sylvain.franco\@dataiku.com (deleted)** on the
